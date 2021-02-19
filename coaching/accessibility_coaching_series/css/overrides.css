@@ -39,6 +39,15 @@
     width: 70%;
 }
 
+.left-align{
+    float: left;
+}
+
+.force-left{
+    width: 100%;
+    text-align: left;
+}
+
 .background::after{
     content: "";
     opacity: 0.1;
